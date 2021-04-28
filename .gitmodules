@@ -1,0 +1,3 @@
+[submodule "gitSubmoduleChild"]
+	path = gitSubmoduleChild
+	url = https://github.com/choslee/gitSubmoduleChild
